@@ -1,4 +1,4 @@
-/*Website Template by freewebsitetemplates.com*/
+
 @font-face {
 	font-family: 'Arimo-Bold';
 	src: url('../fonts/Arimo-Bold/Arimo-Bold.eot');
@@ -43,7 +43,7 @@ body {
 	color: #fff;
 	display: block;
 	font-family: 'Arimo-Bold';
-	font-size: 60px;
+	font-size: 30px;
 	font-weight: normal;
 	height: 130px;
 	line-height: 130px;

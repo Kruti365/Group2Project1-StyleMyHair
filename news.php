@@ -22,11 +22,17 @@
 				<li>
 					<a href="hairstyle.php">hairstyles</a>
 				</li>
-				<li class="selected">
+				<!-- <li class="selected">
 					<a href="news.php">news</a>
-				</li>
+				</li> -->
 				<li>
 					<a href="contact.php">contact</a>
+				</li>
+				<li>
+					<a href="login.php">login</a>
+				</li>
+				<li>
+					<a href="signup.php">signup</a>
 				</li>
 			</ul>
 		</div>

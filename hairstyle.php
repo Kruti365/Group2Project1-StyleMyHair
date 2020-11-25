@@ -22,12 +22,14 @@
 				<li class="selected">
 					<a href="hairstyle.php">hairstyles</a>
 				</li>
-				<li>
-					<a href="news.php">news</a>
-				</li>
+				
 				<li>
 					<a href="contact.php">contact</a>
 				</li>
+				<li>
+					<a href="login.php">login</a>
+				</li>
+				
 			</ul>
 		</div>
 	</div>
